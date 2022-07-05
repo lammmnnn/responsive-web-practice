@@ -421,7 +421,11 @@ h3 {
     .notify-button {
         left: 177px;
     }
-
+    
+    .footer-menu {
+        position: inherit;
+    }
+    
     .footer {
         width: 345px;
         height: 763px;
