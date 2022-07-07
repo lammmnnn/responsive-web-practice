@@ -1,0 +1,111 @@
+﻿* {
+    font-family: 'Roboto';
+    font-style: normal;
+}
+
+.rect {
+    min-width: 267px;
+    height: 232px;
+}
+
+.form-inline {
+    height: 56px;
+    border: 1px solid #979797;
+    border-radius: 8px;
+    align-self: stretch;
+    padding-right: 7px;
+}
+
+.btn {
+    box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.16);
+    border-radius: 10px;
+    width: 160px;
+}
+
+.form-input {
+    position: relative;
+    height: 19px;
+    left: 5.59%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 0.54);
+    border: none;
+    width: calc(100% - 5.59% - 160px - 7px);
+}
+
+.text-format {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.bgcolor-dbietlamauxanhgi {
+    background: #00838F;
+}
+
+.bgcolor-xanhncbien {
+    background: #2196F3;
+}
+
+.bgcolor-xanhdatroithifai {
+    background: #00BCD4;
+}
+
+.bgcolor-cam {
+    background: #FFA000;
+}
+
+.gap64 {
+    gap: 64px;
+}
+
+#fb {
+    width: 31px;
+    height: 31px;
+    flex: none;
+    order: 0;
+}
+
+#twitter {
+    width: 39px;
+    height: 31px;
+    flex: none;
+    order: 1;
+}
+
+#github {
+    width: 30.5px;
+    height: 30.5px;
+    flex: none;
+    order: 2;
+}
+
+#nam-posuere {
+    position: relative;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.54);
+    width: 260.02px;
+}
+
+.donec {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.54);
+}
+
+h4 {
+    color: #00838F;
+    font-weight: bold!important;
+}
+
+.mb-10 {
+    margin-bottom: 6rem!important;
+}
